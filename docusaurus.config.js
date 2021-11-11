@@ -9,7 +9,7 @@ const config = {
   title: 'hoard',
   tagline: 'command organizer tool to hoard all your precious commands 💎🐉',
   url: 'https://hyde46.github.io',
-  baseUrl: '/',
+  baseUrl: '/hoard/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/hoard_small_no_text.png',
