@@ -37,6 +37,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      forceDarkMode: true,
       navbar: {
         title: 'hoard',
         logo: {
@@ -74,6 +75,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      
     }),
 };
 
