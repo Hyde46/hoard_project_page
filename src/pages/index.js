@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            href="https://www.github.com/hyde46/hoard#install">
             Get started
           </Link>
         </div>
