@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'hoard',
   tagline: 'command organizer tool to hoard all your precious commands 💎🐉',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://hyde46.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/hoard_small_no_text.png',
   organizationName: 'Hyde46', // Usually your GitHub org/user name.
-  projectName: 'hoard', // Usually your repo name.
+  projectName: 'hoard', // Usually your repo name.'
+  trailingSlash: false,
 
   presets: [
     [
